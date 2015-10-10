@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E52E80F7-A743-49D5-9A82-E5EF259DB6AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>C_结构体变量_demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4993C9355D976A702C931A578836B5F4D77E8837</key>
+		<string>https://github.com/AntThuiqi/iOS_Pro.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>C/C_结构体变量_demo/C_结构体变量_demo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4993C9355D976A702C931A578836B5F4D77E8837</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AntThuiqi/iOS_Pro.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4993C9355D976A702C931A578836B5F4D77E8837</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4993C9355D976A702C931A578836B5F4D77E8837</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_Pro</string>
+		</dict>
+	</array>
+</dict>
+</plist>
